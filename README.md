@@ -2,7 +2,7 @@
 
 ##TodoApp - Usage
 
-  This is basically a to-do app that allows users to create and manage all tasks that they have to do. 
+  This is basically a to-do app that allows users to create and manage all tasks that they have to do in a date. 
   
  It shows you list of tasks you have to do anywhere anytime as long as you have Android phone.
   
